@@ -8,7 +8,8 @@ body {
   font-weight: 800;
 }
 
-.small-para {
+/* Fix: connected .para to .small-para to show results */
+.para.small-para {
   font-size: 14px;
   font-weight: 800;
 }
@@ -17,7 +18,8 @@ body {
   font-size: 22px;
 }
 
-.confirm {
+/* Fix: connected .button to .confirm to show results */
+.button.confirm {
   background: green;
   color: white;
   font-weight: bold;
@@ -29,7 +31,8 @@ body {
   font-size: 20px;
 }
 
-.child {
+/* Fix: connected .text to .child to show results */
+.text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
