@@ -86,10 +86,12 @@ button.cancel {
 .topPart {
   display: flex;
   font-weight: bold;
+  margin-bottom: -12px;
 }
 
 .topPart .header {
   font-size: large;
+  margin-left: -113px;
 }
 
 .topPart .icon {
@@ -102,10 +104,12 @@ button.cancel {
   margin-left: auto;
 }
 
-.content {
-  text-align: ;
+.text {
+  display: flex;
+  margin-left: 57px;
+  margin-bottom: 15px;
 }
 
 .buttons {
-
+  margin-left: 57px;
 }
